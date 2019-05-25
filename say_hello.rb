@@ -1,1 +1,1 @@
-say_hello("Hello Kent Beck!")
+say_hello("")
